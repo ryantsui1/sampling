@@ -10,10 +10,14 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
-# Author: YOUR NAME
+# Author: Ryan Tsui
 
 ```
 Please write your explanation here...
+
+1. Added instructions for user to download dsi_participant environment to ensure library versions are equivalent between users.
+2. Added minor notes to explain what parts are the simulation model and what each is doing.
+3. Increasing # of repetitions could increase reproducibility in results but was originally restricted to 1000 for time purposes.
 
 ```
 
