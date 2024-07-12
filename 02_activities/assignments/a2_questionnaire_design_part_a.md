@@ -16,30 +16,38 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#` 2.
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+write your answer here... 
+
+To understand what voters want from your party and it's leader to win the election. What policies would be helpful to promise to gain votes.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
 ```
+Target Population: All voters
+Sampling Frame: All eligible voters which see our internet ad and those which we have an email for.
+Sampling Units: Any respondent who claims they are eligible to vote.
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. write your question here... Are you eligible to vote? (Screening)
+2. write your question here... Which party are you planning to vote for in the upcoming election?
+                                    - Each Major Party is an option, independent, undecided, decided not to vote
+3. write your question here... Which political policy is most important to you? (Open Ended)
+4. write your question here... If (own party) were to support your policy, from a scale of 1-5, from Not likely to very likely, how likely would it be that you would vote for them?
+5. write your question here... If (rival party) were to support your policy, from a scale of 1-5, from Not likely to very likely, how likely would it be that you would vote for them?
+6. write your question here... (optional) Historically, how often have you voted for your preferred party? (0-20%, 20-40%, etc)
+7. write your question here... (optional) What is your opinion on (Own party leader) From a scale of 1-5, from Strongly dislike to Strongly Like? 
+8. write your question here... (optional) What is the primary trait which makes you choose your opinion of (own party leader)?
+9. write your question here... (optional) What is your opinion on (rival party leader) From a scale of 1-5, from Strongly dislike to Strongly Like?
+10. write your question here... (optional) What is the primary trait which makes you choose your opinion of (rival  party leader)?
+Could remove rival party questions in favour of demographic stratification questions, but does not seem priority given the purpose of the survey.
 ```
 
 ## Rubric
