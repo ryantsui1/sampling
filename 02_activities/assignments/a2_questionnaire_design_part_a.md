@@ -22,7 +22,7 @@ Describe the purpose of your survey:
 ```
 write your answer here... 
 
-To understand what voters want from your party and it's leader to win the election. What policies would be helpful to promise to gain votes.
+To understand what policies voters are most interested in, what policies are most impactful to pursue help gain votes. if your leader's reputation is strong enough to give a positive impact on vote counts.
 
 ```
 
@@ -31,7 +31,7 @@ Describe your target population, sampling frame, sampling units, and observation
 write your answer here...
 ```
 Target Population: All voters
-Sampling Frame & Sample Method: All eligible voters which we have an email for purchased from a third party vendor. Ask for a simple random sample of 20,000 addresses from the vendor. 
+Sampling Frame & Sample Method: All eligible voters which we have an email for purchased from a third party vendor. Ask for a simple random sample of as many addresses from the vendor as reasonable within a given set budget. A simple random sample would be used to randomize as many unknown access variables which could introduce bias into the results.  
 Sampling Units: Any respondent from the vendor dataset who claims they are eligible to vote.
 
 Your 5-10 question survey:
