@@ -16,30 +16,35 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#` 2.
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+write your answer here... 
+
+To understand what policies voters are most interested in, what policies are most impactful to pursue help gain votes. if your leader's reputation is strong enough to give a positive impact on vote counts.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
 write your answer here...
 ```
+Target Population: All voters
+Sampling Frame & Sample Method: All eligible voters which we have an email for purchased from a third party vendor. Ask for a simple random sample of as many addresses from the vendor as reasonable within a given set budget. A simple random sample would be used to randomize as many unknown access variables which could introduce bias into the results.  
+Sampling Units: Any respondent from the vendor dataset who claims they are eligible to vote.
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. write your question here... Are you eligible to vote? (Screening)
+2. write your question here... Which party are you planning to vote for in the upcoming election?
+                                    - Each Major Party is an option, independent, undecided, decided not to vote
+3. write your question here... Which political policy is most important to you? (Multiple choice from top 3 advertised policies from each rival party + own party, Include other selection)
+4. write your question here... If (own party) were to support your policy, from a scale of 1-5, from Not likely to very likely, how likely would it be that you would vote for them?
+5. write your question here... If (rival party) were to support your policy, from a scale of 1-5, from Not likely to very likely, how likely would it be that you would vote for them?
+6. write your question here... (optional) Historically, how often have you voted for your preferred party? (Multiple choice: 0-20%, 20-40%, ... 80%-100%)
+7. write your question here... (optional) What is your opinion on (Own party leader) From a scale of 1-5, from Strongly dislike to Strongly Like? 
+9. write your question here... (optional) What is your opinion on (rival party leader) From a scale of 1-5, from Strongly dislike to Strongly Like?
 ```
 
 ## Rubric
