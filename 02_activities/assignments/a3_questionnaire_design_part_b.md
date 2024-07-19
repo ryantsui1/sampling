@@ -5,17 +5,47 @@
 
     ```
     write your answer here...
+    Relevance: Pretty relevant if source from 3rd party is randomized and not biased to certain variables. Inheriently asking for email information does bias towards those people who would be less likely to protect their contact information from being purchasable.
+    Accuracy: Estimates may cause bias against personal privacy and information concerns, along with policy opinions which may correlate with those opinions.
+    Timeliness: Emails would allow for quick availability for some respondents to return with results, some respondents may take long to respond but do not have to wait for them if number of responses is large enough.
+    Accessibility: The questions and response options seem clear. There may be a lack of accessibility in Q6. asking respondents to recall far in their past, strength of like and dislike for for questions on a number scale may be interpreted differently by each respondent.
+    Comparability: Most critical topic could be expected to change over time due to recency bias and political climate & priorities evolving.
+    Coherence: Scales used seem to be the same common structure questions could use more elaboration as it could be interpreted differently.
+
+
+
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
     write your answer here...
+Survey Quality changes. 
+1.  Change are you Q1 to "Are you eligible to vote for the next federal election". Defining the election & timeframe. 
+2. Q4,Q5 Change "support your policy" to "the political policy that is most important to you"
+3. Change Q6 to "Did you vote for the same party in the last federal election?" (Multiple choice, Voted for the same party, Voted for another party, Eligible but did not vote, Ineligible to vote).
+    a. Change Q6 to after Q3 to increase chance of correctly recalling what was selected.
+    b. This change is to try to shrink the errors created from inaccruate recall of the past, even if it does not eliminate it.
+4. Should scramble the multiple choice in Q3 to avoid bias.
+
+
+Original Survey: 
+1. write your question here... Are you eligible to vote? (Screening)
+2. write your question here... Which party are you planning to vote for in the upcoming election?
+                                    - Each Major Party is an option, independent, undecided, decided not to vote
+3. write your question here... Which political policy is most important to you? (Multiple choice from top 3 advertised policies from each rival party + own party, Include other selection)
+4. write your question here... If (own party) were to support your policy, from a scale of 1-5, from Not likely to very likely, how likely would it be that you would vote for them?
+5. write your question here... If (rival party) were to support your policy, from a scale of 1-5, from Not likely to very likely, how likely would it be that you would vote for them?
+6. write your question here... (optional) Historically, how often have you voted for your preferred party? (Multiple choice: 0-20%, 20-40%, ... 80%-100%)
+7. write your question here... (optional) What is your opinion on (Own party leader) From a scale of 1-5, from Strongly dislike to Strongly Like? 
+9. write your question here... (optional) What is your opinion on (rival party leader) From a scale of 1-5, from Strongly dislike to Strongly Like?
+
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
+    Some information can be gathered observationally through online discussions on the political situation, political events themselves, what people may express around town. However observational data is likely to pick up datapoints from those who are more outspoken or more strong in their beliefs and may not represent the full eligible voting population fairly.
     write your answer here...
     ```
 
